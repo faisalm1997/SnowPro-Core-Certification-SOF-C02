@@ -4,13 +4,13 @@ This repository contains notes and study materials for the SnowPro® Core Certif
 
 ## Table of Contents
 
-1. [Snowflake Features and Architecture](SnowPro_COF_C02/Snowflake_features_and_architecture.md)
-2. [Data Loading and Unloading](SnowPro_COF_C02/Data_loading_unloading.md)
-3. [Data Transformation](SnowPro_COF_C02/Data_transformations.md)
-4. [Query Optimization](SnowPro_COF_C02/Query_Optimisation.md)
-5. [Storage, Data Protection, and Data Sharing](SnowPro_COF_C02/Storage_DataProtection_DataSharing.md)
-6. [Account Access and Security](SnowPro_COF_C02/Account_access_security.md)
-7. [Virtual Warehouses](SnowPro_COF_C02/Virtual_warehouses.md)
+1. [Snowflake Features and Architecture](https://github.com/faisalm1997/SnowPro-Core-Certification-SOF-C02/blob/ff957058c04dbdb80c7cbd5bf4995ea9ec301a1b/Snowflake_features_and_architecture.md)
+2. [Data Loading and Unloading](https://github.com/faisalm1997/SnowPro-Core-Certification-SOF-C02/blob/ff957058c04dbdb80c7cbd5bf4995ea9ec301a1b/Data_loading_unloading.md)
+3. [Data Transformation](https://github.com/faisalm1997/SnowPro-Core-Certification-SOF-C02/blob/ff957058c04dbdb80c7cbd5bf4995ea9ec301a1b/Data_transformations.md)
+4. [Query Optimization](https://github.com/faisalm1997/SnowPro-Core-Certification-SOF-C02/blob/ff957058c04dbdb80c7cbd5bf4995ea9ec301a1b/Query_Optimisation.md)
+5. [Storage, Data Protection, and Data Sharing](https://github.com/faisalm1997/SnowPro-Core-Certification-SOF-C02/blob/ff957058c04dbdb80c7cbd5bf4995ea9ec301a1b/Storage_DataProtection_DataSharing.md)
+6. [Account Access and Security](https://github.com/faisalm1997/SnowPro-Core-Certification-SOF-C02/blob/ff957058c04dbdb80c7cbd5bf4995ea9ec301a1b/Account_access_security.md)
+7. [Virtual Warehouses](https://github.com/faisalm1997/SnowPro-Core-Certification-SOF-C02/blob/ff957058c04dbdb80c7cbd5bf4995ea9ec301a1b/Virtual_warehouses.md)
 
 ## Overview
 
@@ -106,8 +106,9 @@ The SnowPro® Core Certification validates your knowledge of Snowflake's archite
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/<your-username>/snowpro-core-certification-notes.git
-    cd snowpro-core-certification-notes
+    git clone https://github.com/<your-username>/SnowPro-Core-Certification-SOF-C02.git
+    
+    cd SnowPro-Core-Certification-SOF-C02
     ```
 
 2. Navigate through the topics and study the notes.
