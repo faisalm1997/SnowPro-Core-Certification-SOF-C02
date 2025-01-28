@@ -1,1 +1,14 @@
+# Temporary Files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+*.save
+*.pid
+*.seed
+*.pid.lock
 .DS_Store
+Thumbs.db
+~*
