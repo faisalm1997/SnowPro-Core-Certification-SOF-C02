@@ -80,9 +80,9 @@ Directory tables must be refreshed to reflect the most up-to-date changes made t
 
 ## File Support REST API
 
-Cannot download pre-signed file URL.
+User cannot download pre-signed file URL.
 
-- **Can GET**: `/Api/Files`
+- **GET**: `/Api/Files`
 
 ### There are Two Ways
 

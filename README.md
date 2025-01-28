@@ -1,6 +1,6 @@
 # SnowPro® Core Certification COF-C02 Notes
 
-This repository contains notes and study materials for the SnowPro® Core Certification COF-C02 exam. The notes are organized by topics covered in the exam and provide detailed explanations, examples, and best practices.
+This repository contains notes and study materials for the SnowPro® Core Certification COF-C02 exam. The notes are organised by topics covered in the exam and provide detailed explanations, examples, and best practices.
 
 ## Table of Contents
 
@@ -58,9 +58,9 @@ The SnowPro® Core Certification validates your knowledge of Snowflake's archite
 - Query Profile
 - Spilling to Disk
 - Caching
-- Materialized Views
+- Materialised Views
 - Clustering Metadata
-- Search Optimization Service
+- Search Optimisation Service
 - Credits
 
 ### 5. Storage, Data Protection, and Data Sharing
