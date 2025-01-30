@@ -88,7 +88,6 @@ Comprises of three layers:
 - Consists of virtual warehouses which execute processing tasks required to return results for most SQL statements.
 - A virtual warehouse is a compute cluster that Snowflake manages.
 - Nodes which use share-nothing compute clusters make use of local caching.
-  - e.g., `CREATE WAREHOUSE MY_WH WAREHOUSE_SIZE = LARGE;`
 - Warehouses can be created or removed instantly, they can be paused or removed, unlimited number can be created with its own configuration. Virtual warehouses come in their own t-shirt sizes and all warehouses have consistent access to the same data in the storage layer.
 
 ### Services Layer
@@ -249,4 +248,4 @@ Another way to interact with data is to use Snowflake scripting, it is an extens
 
 Snowpark is an API which is accessed outside of Snowflake, allowing us to query and process our data which supports Java, Scala, and Python. Works via data frames and uses queries as add-ons e.g., `.select()`, `.join()`. It is lazily evaluated and executed, works via data frames (data frame is a 2D table of rows and columns like a spreadsheet).
 
-- After calling the data frame, users are able to transform the data and then print.
+After calling the data frame, users are able to transform the data and then print.

@@ -89,4 +89,5 @@ User cannot download pre-signed file URL.
 - **SCOPED URL**: `BUILD_SCOPED_FILE_URL()`
   - **Authorization**: Only the user who generated the scoped URL can download the staged file.
 - **FILE URL**: `BUILD_STAGE_FILE_URL()`
-  - **Authorization**: Any role that has privileges on the underlying stage can access the file.
+  - **Authorization**: Any role that has privileges on the underlying stage can access the file
+  
